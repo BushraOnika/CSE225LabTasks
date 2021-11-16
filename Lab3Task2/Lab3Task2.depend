@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637068845 source:c:\users\user\desktop\new folder (2)\lab3task2\complex.cpp
+	"complex.h"
+	<iostream>
+	"Complex.h"
+
+1635651279 c:\users\user\desktop\new folder (2)\lab3task2\complex.h
+
+1637068922 source:c:\users\user\desktop\new folder (2)\lab3task2\main.cpp
+	<iostream>
+	"complex.h"
+

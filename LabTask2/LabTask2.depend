@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635649401 source:c:\users\user\desktop\new folder (2)\labtask2\main.cpp
+	<iostream>
+	"dynarr.cpp"
+
+1635649181 source:c:\users\user\desktop\new folder (2)\labtask2\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1635649118 c:\users\user\desktop\new folder (2)\labtask2\dynarr.h
+
+1635649181 c:\users\user\desktop\new folder (2)\labtask2\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
