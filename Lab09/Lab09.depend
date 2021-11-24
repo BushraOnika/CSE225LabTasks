@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637607358 source:c:\users\user\desktop\new folder (2)\lab09\quetype.cpp
+	"QueType.h"
+
+1637607360 c:\users\user\desktop\new folder (2)\lab09\quetype.h
+
+1637686205 source:c:\users\user\desktop\new folder (2)\lab09\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1637607358 c:\users\user\desktop\new folder (2)\lab09\quetype.cpp
+	"QueType.h"
+
